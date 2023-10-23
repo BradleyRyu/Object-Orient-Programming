@@ -36,7 +36,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     /*
-    Hi! Good to see you!
+    Hi! Good to see you! //김상일
      */
 
 }
