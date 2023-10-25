@@ -39,4 +39,6 @@ class MainActivity : AppCompatActivity() {
     Hi! Good to see you! //김상일
      */
 
+     /* Goosmos 남구민 */
+
 }
